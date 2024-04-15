@@ -14,7 +14,7 @@ const iconMap = {
   invoices: InboxIcon,
 };
 
-function Card({
+export function Card({
   title,
   value,
   type,
